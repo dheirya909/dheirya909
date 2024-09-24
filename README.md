@@ -5,6 +5,7 @@
 - 📫 How to reach me taxwiseappdev@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i cant do react
+- 📠 portfolio : dheiryakharbanda.netlify.app
 
 <!---
 dheirya909/dheirya909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
