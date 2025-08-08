@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dheirya Kharbanda – a passionate student with a strong interest in Web Development, UI/UX Design, and Creative Thinking. Currently studying at Bal Bharati Public School, Ganga Ram Hospital Marg, I actively lead and contribute to various clubs as the Club Head of the Astronomy Club and a member of the Science Society.<br><br>With a curious mind and a love for technology, I enjoy building user-friendly websites and designing sleek interfaces that combine functionality with visual appeal. I'm always looking for new ways to grow, create, and collaborate.
+I'm Dheirya Kharbanda – a passionate student with a strong interest in Web Development, UI/UX Design, and Creative Thinking. Currently studying at Bal Bharati Public School, Ganga Ram Hospital Marg, I actively lead and contribute to various clubs as the Editorial Head of the cyber club, The General Secretary of the Science Society and the IT Head of the BBPS GRH Student Council.<br><br>With a curious mind and a love for technology, I enjoy building user-friendly websites and designing sleek interfaces that combine functionality with visual appeal. I'm always looking for new ways to grow, create, and collaborate.
 
 
 ## 🌐 Socials:
