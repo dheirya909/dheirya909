@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=120&section=header&text=Dheirya%20Kharbanda&fontSize=45&fontColor=ffffff" />
+</p>
+
 # Dheirya Kharbanda
 
 ## About Me  
@@ -6,21 +11,18 @@ Currently working on a mental-health support robot with camera, microphone, and 
 
 ---
 
-## Tech Stack  
+## Tech Stack (Icons Grid)
 
-### Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### Web  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-### Hardware & Robotics  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-323330?logo=dependabot&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555?logo=raspberrypi&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python" width="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp" width="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" width="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" width="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" width="48" /></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino" width="48" /></td>
+  </tr>
+</table>
 
 ---
 
@@ -31,15 +33,32 @@ Currently working on a mental-health support robot with camera, microphone, and 
 
 ---
 
-## GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact)
+## GitHub Stats (Dark Mode)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheirya909&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheirya909&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## Contribution Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheirya909&theme=tokyo-night" />
+</p>
+
+---
+
+## Extra Profile Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dheirya909&theme=onedark&row=1" />
+</p>
 
 ---
 
 ## Contact  
+**Portfolio:** https://dheiryakharbanda.vercel.app  
 **LinkedIn:** [Dheirya Kharbanda](https://www.linkedin.com/in/dheirya-kharbanda-733b4732b/)  
 **Email:** *(Add your email)*  
-**Portfolio:** *(Add link if you have one)*  
 
 ---
