@@ -1,21 +1,45 @@
-# 💫 About Me:
-I'm Dheirya Kharbanda – a passionate student with a strong interest in Web Development, UI/UX Design, and Creative Thinking. Currently studying at Bal Bharati Public School, Ganga Ram Hospital Marg, I actively lead and contribute to various clubs as the Editorial Head of the cyber club, The General Secretary of the Science Society and the IT Head of the BBPS GRH Student Council.<br><br>With a curious mind and a love for technology, I enjoy building user-friendly websites and designing sleek interfaces that combine functionality with visual appeal. I'm always looking for new ways to grow, create, and collaborate.
+# Dheirya Kharbanda
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheirya-kharbanda-733b4732b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dheirya_kh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dheiryakharbanda101@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dheirya909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dheirya909&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheirya909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## About Me  
+I’m a Class XI student passionate about **Robotics**, **Science**, and **Computer Science**. I enjoy building practical, technology-driven solutions — from web applications to Arduino-based robots.  
+Currently working on a mental-health support robot with camera, microphone, and expressive 3D-printed components.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dheirya909&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tech Stack  
+
+### Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Web  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### Hardware & Robotics  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors-323330?logo=dependabot&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-555555?logo=raspberrypi&logoColor=white)
+
+---
+
+## Currently Learning  
+- Machine Learning & AI  
+- Computer Vision  
+- Human-robot interaction systems  
+
+---
+
+## GitHub Stats  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact)
+
+---
+
+## Contact  
+**LinkedIn:** [Dheirya Kharbanda](https://www.linkedin.com/in/dheirya-kharbanda-733b4732b/)  
+**Email:** *(Add your email)*  
+**Portfolio:** *(Add link if you have one)*  
+
+---
