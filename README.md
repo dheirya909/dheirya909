@@ -59,6 +59,6 @@ Currently working on a mental-health support robot with camera, microphone, and 
 ## Contact  
 **Portfolio:** https://dheiryakharbanda.vercel.app  
 **LinkedIn:** [Dheirya Kharbanda](https://www.linkedin.com/in/dheirya-kharbanda-733b4732b/)  
-**Email:** *(Add your email)*  
+**Email:** *dheiryakharbanda101@gmail.com*  
 
 ---
